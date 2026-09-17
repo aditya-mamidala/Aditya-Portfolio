@@ -1,113 +1,64 @@
-# 🚀 Aditya Mamidala — Portfolio
+<div align="center">
 
-Welcome to my personal portfolio website.
+# 👨‍💻 ADITYA MAMIDALA
 
-I am a **B.Tech Computer Science and Engineering student** with a strong interest in **Cybersecurity, Python, Networking, Linux and Web Development**.
+### B.Tech CSE Student • Cybersecurity Learner • Developer
 
-This repository contains my personal portfolio, projects, technical skills and certifications.
+<p>
+  <a href="https://github.com/aditya-mamidala">
+    <img src="https://img.shields.io/badge/GitHub-Aditya%20Mamidala-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-mamidala-487410428">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Mamidala-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=aditya-mamidala&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge">
+</p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 🎓 B.Tech CSE Student
-- 🛡️ Cybersecurity Learner
-- 🐍 Python Developer
-- 🌐 Networking Enthusiast
-- 🐧 Linux / Kali Linux Learner
+I'm **Aditya Mamidala**, a B.Tech Computer Science and Engineering student with a growing focus on **Cybersecurity, Python, Networking, Linux and Web Development**.
+
+I enjoy understanding how technology works, building practical projects and continuously improving my technical knowledge through hands-on learning.
+
+My current learning path combines:
+
+- 🔐 Cybersecurity fundamentals
+- 🌐 Computer Networking
+- 🐍 Python programming
+- 🐧 Linux & Kali Linux
 - 💻 Web Development
+- 🤖 Artificial Intelligence
+- ⚙️ DevOps fundamentals
 - 🔧 Git & GitHub
 
-I enjoy learning new technologies, building practical projects and improving my cybersecurity and programming skills.
+> **Learn → Build → Experiment → Improve**
 
 ---
 
-## 🛠️ Technical Skills
+# 🛡️ Cybersecurity Focus
 
-| Category | Skills |
-|---|---|
-| Programming | Python, C, Java |
-| Cybersecurity | Security Fundamentals, Cybersecurity Basics |
-| Networking | TCP/IP, Networking Fundamentals |
-| Operating Systems | Linux, Kali Linux |
-| Web Development | HTML, CSS, JavaScript |
-| Tools | Git, GitHub |
-| DevOps | CI/CD, DevOps Fundamentals |
+My primary technical interest is cybersecurity.
 
----
-
-## 🚀 Projects
-
-### 🌾 Smart Farmer Market Platform
-
-A Smart Farmer Market Platform designed to strengthen market linkages and price discovery for farmers.
-
-**Features:**
-- Live nearby crop prices
-- Market comparison
-- Transport-cost consideration
-- Direct buyers
-- Demand information
-- AI/ML price prediction
-- Farmer alerts
-- Multi-language support
-
-**Technologies:** AI/ML, Web Development
-
----
-
-### 🌐 Gomaya Farms
-
-A responsive website project created for a cow-products business.
-
-**Technologies:**
-- HTML
-- CSS
-- JavaScript
-- GitHub Pages
-
-🔗 **Live Website:**  
-https://aditya-mamidala.github.io/gomaya-farms/
-
----
-
-### 🤖 JARVIS AI Assistant
-
-A personal desktop AI assistant project exploring:
-
-- Speech recognition
-- Text-to-speech
-- PC automation
-- AI integration
-- Multilingual voice interaction
-
-**Technologies:** Python, AI, Speech Recognition, Automation
-
----
-
-## 🏆 Certifications & Learning
-
-- Tata Cybersecurity Analyst Job Simulation — Forage
-- IBM SkillsBuild Credential
-- Claude Code 101
-- Microsoft Excel Using AI Workshop — OfficeMaster
-- Cybersecurity and Networking Learning
-
----
-
-## 🎯 Current Focus
-
-I am currently focusing on:
+Currently strengthening my knowledge in:
 
 ```text
-Cybersecurity
-      ↓
 Networking
-      ↓
-Linux
-      ↓
-Python
-      ↓
-Security Tools
-      ↓
-Practical Projects
+    ↓
+TCP/IP & Network Fundamentals
+    ↓
+Linux & Kali Linux
+    ↓
+Cybersecurity Fundamentals
+    ↓
+Security Tools & Concepts
+    ↓
+SOC / Blue Team Concepts
+    ↓
+Practical Security Projects
